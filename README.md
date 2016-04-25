@@ -1,3 +1,7 @@
+# DEPRECATED!
+
+krux/postscribe v2 was released, solving the Webpack/Browserify issues that were the reason for this fork. Switch your dependencies to just `postscribe`@`^2.0.3` and switch your imports to `postscribe`. No other changes are necessary.
+
 # UMD fork of Postscribe
 
 Available on NPM as `postscribe-umd`. Will merge in all fixes that happen at krux/postscribe and some more.
